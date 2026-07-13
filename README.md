@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is a mechanical CAD model of a helicopter rotor head and swashplate system inspired by the UH-60. As the first project heading into the start of my first year mechanical engineering journey at UWaterloo, my primary focus for this project is the mechanical design and kinematic behavior of the rotor system rather than aerodynamic optimization. The model explores how pilot control inputs are mechanically translated into blade pitch changes through the swashplate and pitch-link system for both the main and tail rotor systems.
+This project is a mechanical CAD model of a helicopter rotor head and swashplate system inspired by the UH-60. As the first project heading into the start of my first year mechanical engineering journey at UWaterloo, my primary focus for this project is the mechanical design and kinematic behavior of the rotor system rather than aerodynamic optimization. The model explores how pilot control inputs are mechanically translated into blade pitch changes through the rotating and nonrotating swashplates, as well as pitch-link system for both the main and tail rotor systems.
 
 The assembly was designed in Autodesk Fusion 360 with an emphasis on parametric modeling, mechanical relationships, and realistic motion behavior.
 
